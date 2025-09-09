@@ -1,0 +1,5 @@
+{
+  "name": "Rock Paper Scissors Game",
+  "description": "A simple and visually appealing Rock, Paper, Scissors game. The opponent's choice cycles randomly, and the player selects their move to see the outcome.",
+  "requestFramePermissions": []
+}
